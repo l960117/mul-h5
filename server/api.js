@@ -1,0 +1,6 @@
+module.exports = {
+
+  MAIN_API: 'http://devinternal.insnail.com'
+
+};
+

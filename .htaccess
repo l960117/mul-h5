@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^h5/psychological-test/.*$ pages/psychological-test.html
